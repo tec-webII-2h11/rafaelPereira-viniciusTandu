@@ -1,0 +1,126 @@
+
+#cabeçalho {
+	height: 220px;
+	width:  1315px;
+	border-style: solid;
+	border-color: red;
+}
+#fundogeral {
+	height: 220px;
+	width: 1315px;
+	float: center;
+}
+#nav{
+    height: 100px;
+    width: 1300px;
+    border-style: solid;
+    border-color: red;;
+    z-index: 99;
+    padding: 50px 0px 0px 500px;
+    margin: 0px;
+}
+.navbar{
+    position: absolute;
+}
+#bordaunica{
+    font-size: 30px;
+    color: black;
+    font-family: serif;
+}   
+#borda{
+    border: solid;
+    border-color: red;
+    border-width: 3px;
+    margin-top: 10px;
+    background-color: yellow;
+}
+a:link{
+    text-decoration: none;
+}
+#fundao{
+    background-color: purple;
+    width: 1321px;
+    height: 1080px;
+}
+#corpo{
+    width: 950px;
+    height: 650px;
+    background-color: black;
+    margin-top: 15px;
+    margin-left: 10px;
+    border-radius: 8px;
+    float: left;
+    margin-bottom: 15px;
+}
+#topo{
+    background-color: darkgrey;
+    height: 50px;
+    text-align: center;
+    border-radius: 20px;
+}
+#pbaixo{
+   padding-top: 15px;
+}
+#ads{
+    height: 650px;
+    width: 250px;
+    background-color: black;
+    float: right;
+    margin-top: 15px;
+    margin-right: 10px;
+    border-radius: 8px;
+}
+#alinhar{
+    color: white;
+    text-align: center;
+}
+#rodape1{
+    width: 645px;
+    height: 70px;
+    border: solid;
+    border-color: red;
+    background-color: yellow;
+    clear: both;
+    margin-top: 0px;
+    margin-left: 10px;
+    float: left;
+}
+#lista{
+    list-style: none;
+}
+#rodape2{ 
+    width: 640px;
+    height: 70px;
+    border: solid;
+    border-color: red;
+    background-color: yellow;
+    margin-right: 10px;
+    float: right;
+}
+#textinho{
+    list-style: none;
+}
+#cont{
+ color: white;
+ width: 900px;
+ font-size: 30px;
+ text-align: center;    
+}
+#batom{ 
+width: 249px;
+height: 294px;
+}
+#tinder{ 
+width: 249px;
+height: 294px;
+}
+#tabelona{
+    color: white;
+    margin-top: 20px;
+    margin-left: 10px;
+    width: 900px;
+    height: 200px;
+}
+#list{
+    color: white;
+}
